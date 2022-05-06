@@ -5,4 +5,7 @@ make png and csv in output folder
 
 "output"フォルダを作成して、
 
-outputフォルダにグラフの画像ファイル(.png）とcsvファイルに変換されたデータを格納するプログラム
+outputフォルダにグラフの画像ファイル(.png）とcsvファイルに変換されたデータを格納するプログラム。
+
+# 操作方法
+
