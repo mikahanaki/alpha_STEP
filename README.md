@@ -33,3 +33,6 @@ outputフォルダにグラフの画像ファイル(.png）とcsvファイルに
 Open in colaboの作り方
 
 https://eqseqs.hatenablog.com/entry/2019/11/01/220301
+
+https://qiita.com/peaceiris/items/4761b200eae6c7fb0e66
+
